@@ -1,6 +1,3 @@
-# BlinkIT-Sales-Analysis
-
-
 #  Blinkit Sales Performance Dashboard
 •	Designed and developed a Power BI dashboard to analyze $1.2M in total sales, 8,523 items sold, and an average customer rating of 3.9.
 •	Provided insights into sales trends, outlet performance, and item visibility segmented by outlet size, tier, and item type.
