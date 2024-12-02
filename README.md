@@ -52,4 +52,4 @@ Provided a comprehensive view of the sales ecosystem
 ![Alt Text](https://github.com/AFZALSUNSHINE/BlinkIT-Sales-Analysis/blob/main/image%20Screenshot%202024-11-29%20201028.png)
 
 Intaractive Dashbord 
-https://github.com/AFZALSUNSHINE/BlinkIT-Sales-Analysis/blob/main/blinkit%204.pbix
+https://drive.google.com/file/d/1ElSO6O8e_3mzjnQp-6lM3RHh4G89IZ9z/view?usp=sharing
