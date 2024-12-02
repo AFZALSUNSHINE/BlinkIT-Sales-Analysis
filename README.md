@@ -50,3 +50,6 @@ Provided a comprehensive view of the sales ecosystem
 •	Leveraged advanced DAX and visualizations to highlight key metrics like outlet establishment year, sales distribution, and fat content preferences.
 •	Enabled data-driven decisions by identifying top-performing outlet types (Supermarket, Grocery) and regional sales trends.
 ![Alt Text](https://github.com/AFZALSUNSHINE/BlinkIT-Sales-Analysis/blob/main/image%20Screenshot%202024-11-29%20201028.png)
+
+Intaractive Dashbord 
+https://github.com/AFZALSUNSHINE/BlinkIT-Sales-Analysis/blob/main/blinkit%204.pbix
